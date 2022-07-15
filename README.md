@@ -12,5 +12,5 @@ This project developed using NodeJs, ExpressJs and MongoDB Atlas and deploy on H
 
 ## Authors
 
-- [@tejasjagtap](https://github.com/Tejas-Jagtap/tejas-address-book.git)
+- [@tejasjagtap](https://github.com/Tejas-Jagtap/hackerEarth-Gallary-App)
 
